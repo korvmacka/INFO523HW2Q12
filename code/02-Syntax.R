@@ -3,6 +3,7 @@
 # library(ggplot2)
 
 x <- c(0, 0, 0, 0, 1, 0 ,0)
+# hey neat rock
 y <- x
 y
 
